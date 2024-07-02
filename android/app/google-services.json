@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799034145",
+    "project_id": "firstfoodapp-be451",
+    "storage_bucket": "firstfoodapp-be451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799034145:android:93ec4e0616325db9e9cc60",
+        "android_client_info": {
+          "package_name": "com.example.mesa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn9FMWspY1XAdVTwSz38Po8D8ZlpcMjQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
